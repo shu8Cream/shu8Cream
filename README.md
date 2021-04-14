@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![shu8Cream](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshu8Cream)](https://atcoder.jp/users/shu8Cream)
-
-[![GitHub followers](https://img.shields.io/github/followers/shu8Cream.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shu8Cream?tab=followers)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/shu8Cream?style=social)](https://twitter.com/shu8Cream)
+[![shu8Cream](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshu8Cream)](https://atcoder.jp/users/shu8Cream) [![GitHub followers](https://img.shields.io/github/followers/shu8Cream.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shu8Cream?tab=followers) [![Twitter Follow](https://img.shields.io/twitter/follow/shu8Cream?style=social)](https://twitter.com/shu8Cream)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shu8Cream&show_icons=true&theme=tokyonight) 
 
